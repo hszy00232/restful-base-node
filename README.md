@@ -10,4 +10,5 @@
 1. 项目启动时本地mododb服务器要在启动状态
 2. 此项目只提供了接口,可以借助postman验证
 
-![image](./postman.png)
+![image](./pic/postman.png)
+![image](./pic/postman-auth.png)
